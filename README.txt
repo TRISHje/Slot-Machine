@@ -1,0 +1,1 @@
+This is a simple text-based slot machine game written in Python. The game allows players to deposit money, place bets on multiple lines, and spin the slot machine to potentially win more money based on the outcome of the spin.
